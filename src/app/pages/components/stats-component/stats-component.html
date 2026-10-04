@@ -1,0 +1,19 @@
+<section id="stats" class="border-y border-border bg-card">
+    <div class="max-w-7xl mx-auto px-6 py-12 grid grid-cols-2 md:grid-cols-2 gap-4">
+        @for (stat of stats; track $index) 
+        {
+            <div class="text-center">
+                <p class="font-barlow-condensed text-4xl font-black text-primary mb-1">
+                    {{stat.value}}
+                </p>
+                <p class="text-xs text-muted-foreground uppercase tracking-wider">
+                    {{stat.label}}
+                </p>
+                
+                
+            </div>
+            
+        }
+    </div>
+    
+</section>
