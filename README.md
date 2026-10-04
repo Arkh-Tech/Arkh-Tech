@@ -1,59 +1,43 @@
-# Site
+<div align="center">
+  <h1 align="center">Arkh-Tech</h1>
+  <p align="center">
+    <b>Desenvolvimento de Soluções de Software sob Medida</b>
+  </p>
+  <p align="center">
+    <a href="https://arkhtech.com.br/">Visite o site oficial</a>
+  </p>
+</div>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.0.
+<br>
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 Sobre a Arkh-Tech
 
-```bash
-ng serve
-```
+A **Arkh-Tech** é uma empresa de engenharia de software focada em transformar ideias em produtos digitais de alto impacto. Desenvolvemos soluções completas e escaláveis, acompanhando o projeto desde a concepção inicial até a entrega final com qualidade e agilidade.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 🛠️ O que Fazemos
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Oferecemos portfólio completo em desenvolvimento de software para diferentes plataformas:
 
-```bash
-ng generate component component-name
-```
+* **💻 Desktop:** Criação de sistemas robustos, seguros e focados em alta performance para computadores.
+* **📱 Mobile:** Aplicativos nativos e híbridos modernos para Android e iOS.
+* **🌐 Web:** Plataformas web responsivas, dinâmicas e otimizadas.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---
 
-```bash
-ng generate --help
-```
+## 📞 Contato
 
-## Building
+Tem um projeto em mente ou quer modernizar a tecnologia da sua empresa? Entre em contato conosco:
 
-To build the project run:
+* **Site:** [arkhtech.com.br](https://arkhtech.com.br/)
+* **E-mail:** `contato@arkhtech.com.br`
+* **Telefone / WhatsApp:** `(15) 99647-0168`
 
-```bash
-ng build
-```
+---
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<div align="center">
+  <small>© Arkh-Tech. Todos os direitos reservados.</small>
+</div>
